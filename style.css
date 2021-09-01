@@ -1,0 +1,29 @@
+/* #uidiv{
+    width: 500px;
+    margin: auto;
+    margin-top: 100px;
+}
+#search-btn{
+    position: relative;
+    left: -40px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    height: 30px;
+}
+#search-field{
+    width: 300px;
+    border-radius: 20px;
+    height: 20px;
+}
+#main-div{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+}
+.newdiv{
+    width: 200px;
+    height: 100px;
+    background-color: coral;
+    text-align: center;
+} */
